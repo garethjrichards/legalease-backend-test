@@ -47,7 +47,6 @@ public class ApplicationController {
      * Supply the region id and it will pass back all the roots matching that id
      * In this example any region that is not 170 is returned as a Bad request by the
      * RestExceptionHandler
-     *
      * Very convoluted structure ideally I'd like to see regions as a seperate schema and service
      */
     //

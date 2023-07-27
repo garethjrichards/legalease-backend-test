@@ -5,7 +5,6 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import org.springframework.http.HttpStatus;
 
 import java.time.LocalDateTime;
-import java.util.List;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -22,11 +21,6 @@ class ApiError {
 
     private ApiError() {
         timestamp = LocalDateTime.now();
-    }
-
-    ApiError(HttpStatus status) {
-        this();
-        this.status = status;
     }
 
     ApiError(HttpStatus status, Throwable ex) {

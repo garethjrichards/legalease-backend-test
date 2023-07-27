@@ -29,8 +29,8 @@ public class ApplicationServiceImpl implements ApplicationService {
 
     /**
      * This constructor initializes the JSON from the classpath and passes it into a List as if it was a data store
-     *
      * and alternative (although not necessary in this case) can be to use the init() method
+     *
      * @param resourceFile the file on the classpath
      */
     public ApplicationServiceImpl(@Value("classpath:legalease-code-test-api.json") Resource resourceFile) {
@@ -56,6 +56,7 @@ public class ApplicationServiceImpl implements ApplicationService {
 
     /**
      * Get the root with id
+     *
      * @param id the id matching the root id
      * @return an optional root object
      */
@@ -68,6 +69,7 @@ public class ApplicationServiceImpl implements ApplicationService {
 
     /**
      * Get the root by region id
+     *
      * @param regionId the region id
      * @return A list of roots matching the regionId
      */
@@ -82,7 +84,7 @@ public class ApplicationServiceImpl implements ApplicationService {
      * Validation for null values are not needed due to the file being perfect but I felt in a real world data source
      * the data might have missing values etc.
      *
-     * @param root the root to match against
+     * @param root     the root to match against
      * @param regionId the region id
      * @return whether the region matches
      */
@@ -94,6 +96,7 @@ public class ApplicationServiceImpl implements ApplicationService {
         return root.getFirm()
                    .getFirmRegions()
                    .stream()
-                   .anyMatch(firmRegion -> regionId.equals(firmRegion.getRegion().getId()));
+                   .anyMatch(firmRegion -> regionId.equals(firmRegion.getRegion()
+                                                                     .getId()));
     }
 }
