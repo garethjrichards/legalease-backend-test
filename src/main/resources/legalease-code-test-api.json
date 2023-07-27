@@ -1,0 +1,378 @@
+[
+    {
+        "id": "19859",
+        "firm": {
+            "id": "960",
+            "name": "Allen & Overy",
+            "slug": "allen--overy-960",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://allen--overy-960.com",
+            "badges": [
+                {
+                    "id": "8",
+                    "name": "Top 10 worldwide",
+                    "slug": "top-10-worldwide-8"
+                },
+                {
+                    "id": "9",
+                    "name": "Top 50 worldwide",
+                    "slug": "top-50-worldwide-9"
+                }
+            ],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "988",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": false,
+                    "crossBorderCapability": "GLOBAL",
+                    "clientSatisfactionRating": 709,
+                    "expertiseAndReputationRating": 753
+                }
+            ]
+        },
+        "trend": "STABLE_5",
+        "diversity": true,
+        "tier": "T_3",
+        "position": 0
+    },
+    {
+        "id": "28091",
+        "firm": {
+            "id": "4220",
+            "name": "Osborne Clarke",
+            "slug": "osborne-clarke-4220",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://osborne-clarke-4220.com",
+            "badges": [],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "4248",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": false,
+                    "crossBorderCapability": "GLOBAL",
+                    "clientSatisfactionRating": 350,
+                    "expertiseAndReputationRating": 70
+                }
+            ]
+        },
+        "trend": "STABLE_2",
+        "diversity": true,
+        "tier": "T_2",
+        "position": 0
+    },
+    {
+        "id": "30793",
+        "firm": {
+            "id": "6339",
+            "name": "Slater and Gordon",
+            "slug": "slater-and-gordon-6339",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://slater-and-gordon-6339.com",
+            "badges": [
+                {
+                    "id": "8",
+                    "name": "Top 10 worldwide",
+                    "slug": "top-10-worldwide-8"
+                },
+                {
+                    "id": "9",
+                    "name": "Top 50 worldwide",
+                    "slug": "top-50-worldwide-9"
+                }
+            ],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "6367",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": false,
+                    "crossBorderCapability": "LOCAL",
+                    "clientSatisfactionRating": 793,
+                    "expertiseAndReputationRating": 266
+                }
+            ]
+        },
+        "trend": "DOWN",
+        "diversity": false,
+        "tier": "T_1",
+        "position": 0
+    },
+    {
+        "id": "36274",
+        "firm": {
+            "id": "11229",
+            "name": "BDB Pitmans",
+            "slug": "bdb-pitmans-11229",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://bdb-pitmans-11229.com",
+            "badges": [
+                {
+                    "id": "8",
+                    "name": "Top 10 worldwide",
+                    "slug": "top-10-worldwide-8"
+                }
+            ],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "11257",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": false,
+                    "crossBorderCapability": "GLOBAL",
+                    "clientSatisfactionRating": 442,
+                    "expertiseAndReputationRating": 141
+                }
+            ]
+        },
+        "trend": "STABLE_2",
+        "diversity": true,
+        "tier": "T_1",
+        "position": 0
+    },
+    {
+        "id": "42084",
+        "firm": {
+            "id": "13185",
+            "name": "Leigh Day",
+            "slug": "leigh-day-13185",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://leigh-day-13185.com",
+            "badges": [
+                {
+                    "id": "8",
+                    "name": "Top 10 worldwide",
+                    "slug": "top-10-worldwide-8"
+                },
+                {
+                    "id": "9",
+                    "name": "Top 50 worldwide",
+                    "slug": "top-50-worldwide-9"
+                }
+            ],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "13213",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": false,
+                    "crossBorderCapability": "LOCAL",
+                    "clientSatisfactionRating": 654,
+                    "expertiseAndReputationRating": 366
+                }
+            ]
+        },
+        "trend": "DOWN",
+        "diversity": false,
+        "tier": "T_1",
+        "position": 0
+    },
+    {
+        "id": "44716",
+        "firm": {
+            "id": "13837",
+            "name": "Michelmores",
+            "slug": "michelmores-13837",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://michelmores-13837.com",
+            "badges": [
+                {
+                    "id": "8",
+                    "name": "Top 10 worldwide",
+                    "slug": "top-10-worldwide-8"
+                },
+                {
+                    "id": "9",
+                    "name": "Top 50 worldwide",
+                    "slug": "top-50-worldwide-9"
+                }
+            ],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "13865",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": false,
+                    "crossBorderCapability": "GLOBAL",
+                    "clientSatisfactionRating": 216,
+                    "expertiseAndReputationRating": 795
+                }
+            ]
+        },
+        "trend": "STABLE_4",
+        "diversity": true,
+        "tier": "T_3",
+        "position": 0
+    },
+    {
+        "id": "46179",
+        "firm": {
+            "id": "15467",
+            "name": "Sackers",
+            "slug": "sackers-15467",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://sackers-15467.com",
+            "badges": [],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "15495",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": true,
+                    "crossBorderCapability": "GLOBAL",
+                    "clientSatisfactionRating": 470,
+                    "expertiseAndReputationRating": 719
+                }
+            ]
+        },
+        "trend": "STABLE_1",
+        "diversity": false,
+        "tier": "T_3",
+        "position": 0
+    },
+    {
+        "id": "47747",
+        "firm": {
+            "id": "15630",
+            "name": "Fletchers",
+            "slug": "fletchers-15630",
+            "imageUrl": "https://via.placeholder.com/150",
+            "websiteUrl": "http://fletchers-15630.com",
+            "badges": [
+                {
+                    "id": "9",
+                    "name": "Top 50 worldwide",
+                    "slug": "top-50-worldwide-9"
+                }
+            ],
+            "awards": [],
+            "firmRegions": [
+                {
+                    "id": "15658",
+                    "region": {
+                        "id": "170",
+                        "name": "London",
+                        "slug": "london-170",
+                        "regionGroup": {
+                            "id": "169",
+                            "name": "Solicitors",
+                            "slug": "solicitors-169",
+                            "regionArea": {
+                                "id": "168",
+                                "name": "United Kingdom",
+                                "slug": "united-kingdom-168"
+                            }
+                        }
+                    },
+                    "booking": true,
+                    "crossBorderCapability": "GLOBAL",
+                    "clientSatisfactionRating": 928,
+                    "expertiseAndReputationRating": 221
+                }
+            ]
+        },
+        "trend": "STABLE_3",
+        "diversity": true,
+        "tier": "T_2",
+        "position": 0
+    }
+]
