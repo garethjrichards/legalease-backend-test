@@ -11,3 +11,8 @@
 
 ### Postman
 - While the application is running you may import the postman collection in the root directory called `Legalease-test.postman_collection.json` to run tests in postman
+
+### Auth
+Basic HTTP auth is enabled on api/ endpoints with credentials below
+- user: user
+- password: password
